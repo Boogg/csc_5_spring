@@ -15,7 +15,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     //get two numbers from the user
-    //claculate the avg
+    //calculate the avg
     int x,y;
     
     //get input from the user

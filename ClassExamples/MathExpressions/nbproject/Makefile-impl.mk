@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Week1Lab
+PROJECTNAME=MathExpressions
 
 # Active Configuration
 DEFAULTCONF=Debug

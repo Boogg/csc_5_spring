@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=week1lab
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/week1lab
+CND_ARTIFACT_NAME_Debug=mathexpressions
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/mathexpressions
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=week1lab.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/week1lab.tar
+CND_PACKAGE_NAME_Debug=mathexpressions.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/mathexpressions.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=week1lab
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/week1lab
+CND_ARTIFACT_NAME_Release=mathexpressions
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/mathexpressions
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=week1lab.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/week1lab.tar
+CND_PACKAGE_NAME_Release=mathexpressions.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/mathexpressions.tar
 #
 # include compiler specific variables
 #

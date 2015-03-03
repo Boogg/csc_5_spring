@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=LabWeek2WorksheetPart2
+PROJECTNAME=week3part1
 
 # Active Configuration
 DEFAULTCONF=Debug

@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Week3Part1
+PROJECTNAME=Week3IfStatments
 
 # Active Configuration
 DEFAULTCONF=Debug

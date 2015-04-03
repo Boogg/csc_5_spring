@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
     cin>>stars;
     stars++;
     for(int i=0;i<(stars-2);i+=2){
-        for(int j=0;j<((stars+1+i)-stars);j++){
+        for(int j=0;j<(i+1);j++){
             cout<<"*";
         }
         cout<<"-";
